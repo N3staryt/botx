@@ -1,5 +1,0 @@
-{
-	"ip":"lifestealsmp76.aternos.me",
-	"port": "16736",
-	"name": "botx"
-}
